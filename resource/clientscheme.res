@@ -171,6 +171,9 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+	///////////////// CUSTOM COLORS //////////////////////////
+		"FISHfingersPink"     	"214 19 191 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -2590,6 +2593,28 @@ Scheme
 			{
 				"name" "ComicNeueSansID"
 				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Fishfingerslight5
+		{
+			"1"
+			{
+				"name" "FISHfingers Light"
+				"tall"		"5"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Fishfingerslight10
+		{
+			"1"
+			{
+				"name" "FISHfingers Light"
+				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
 			}
