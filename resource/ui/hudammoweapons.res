@@ -101,8 +101,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
+<<<<<<< HEAD
 		"font"			"Silverbellybuttonring48"
 		"fgcolor"		"33 235 231 255"
+=======
+		"font"			"Fishfingersreg48"
+		"fgcolor"		"FISHfingersPink"
+>>>>>>> origin/master
 		"xpos"			"10"
 		"ypos"			"30"
 		"zpos"			"5"
@@ -118,10 +123,17 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
+<<<<<<< HEAD
 		"font"			"Silverbellybuttonring48"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"11"
 		"ypos"			"31"
+=======
+		"font"			"Fishfingersreg48"
+		"fgcolor"		"0 0 0 255"
+		"xpos"			"12"
+		"ypos"			"32"
+>>>>>>> origin/master
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"42"

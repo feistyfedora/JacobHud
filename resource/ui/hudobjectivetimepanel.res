@@ -65,8 +65,17 @@
 		"enabled"		"1"
 		"labelText"		"Waiting for Players"
 		"textAlignment"		"center"
+<<<<<<< HEAD
 		
 		"fgcolor_override" 	"FISHfingersPink"
+=======
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"			"0"
+		"font"			"FISHfingers15"
+		"font_hidef"	"HudFontSmall"
+		"font_lodef"	"HudFontSmall"
+>>>>>>> origin/master
 	}			
 	"WaitingForPlayersBG"
 	{

@@ -49,7 +49,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"		"1"
+<<<<<<< HEAD
 		"fillcolor" 	"33 235 231 75"
+=======
+		"fillcolor" 	"214 19 191 75"
+>>>>>>> origin/master
 		
 		if_mvm
 		{
@@ -73,7 +77,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"		"1"
+<<<<<<< HEAD
 		"fillcolor" 	"33 235 231 75"
+=======
+		"fillcolor" 	"214 19 191 75"
+>>>>>>> origin/master
 		
 		if_mvm
 		{
@@ -96,7 +104,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
 		"fillcolor" 	"33 235 231 50"
+=======
+		"fillcolor" 	"214 19 191 50"
+>>>>>>> origin/master
 		
 		if_mvm
 		{
@@ -120,7 +132,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
 		"fillcolor" 	"33 235 231 50"
+=======
+		"fillcolor" 	"214 19 191 50"
+>>>>>>> origin/master
 		
 		if_mvm
 		{
@@ -526,7 +542,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
+<<<<<<< HEAD
 		"fillcolor"		"92 87 91 200"
+=======
+		"fillcolor"		"214 19 191 200"
+>>>>>>> origin/master
 		"PaintBackgroundType"	"0"
 		
 		if_mvm

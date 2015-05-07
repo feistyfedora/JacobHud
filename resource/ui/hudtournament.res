@@ -259,7 +259,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
 		"fillcolor" 	"33 235 231 50"
+=======
+		"fillcolor" 	"214 19 191 50"
+>>>>>>> origin/master
 
 		
 		if_mvm
@@ -474,7 +478,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+<<<<<<< HEAD
 		"fillcolor" 	"33 235 231 100"
+=======
+		"fillcolor" 	"214 19 191 100"
+>>>>>>> origin/master
 		
 		if_mvm
 		{

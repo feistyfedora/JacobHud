@@ -47,8 +47,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
+<<<<<<< HEAD
 		"xpos"			"88"
 		"ypos"			"20"
+=======
+		"xpos"			"87"
+		"ypos"			"25"
+>>>>>>> origin/master
 		"zpos"			"2"
 		"wide"			"55"
 		"tall"			"55"
@@ -70,8 +75,13 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
+<<<<<<< HEAD
 		"font"			"Silverbellybuttonring48"
 		"fgcolor"		"33 235 231 255"
+=======
+		"font"			"Fishfingersreg48"
+		"fgcolor"		"FISHfingersPink"
+>>>>>>> origin/master
 	}
 	"PlayerStatusHealthValueShadow"
 	{

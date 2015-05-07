@@ -2598,6 +2598,28 @@ Scheme
 			}
 		}
 		
+		Fishfingerslight5
+		{
+			"1"
+			{
+				"name" "FISHfingers Light"
+				"tall"		"5"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Fishfingerslight10
+		{
+			"1"
+			{
+				"name" "FISHfingers Light"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		Fishfingerslight15
 		{
 			"1"
